@@ -1,8 +1,9 @@
-Hello! my name is Annel 
-- 👀 I’m interested in establishing a new career in tech
-- 🌱 I’m currently learning as much as my brain can handle! Psychology major hungry for advancement.  
-- 💞️ I’m looking to network and hopefully get experience on projects to later showcase my work/ professional journey.  
+Hello! my name is Annel Gonzales
+- 👀 Navigating the mystery known as tech
+- 🌱 Currently learning as much as my brain can handle! Psychology major hungry for advancement. Familiarizing myself with version control best practices 
+- 💞️ Eager to network and get experience on projects to later showcase my journey.  
 - 📫 Feel free to reach me at photolv@icloud.com
+![undraw_Lost_online_re_upmy](https://user-images.githubusercontent.com/96323677/146655167-0b59ed6f-fa3e-44be-a12b-2a2a5eb75f79.png)
 
 <!---
 Annel702/Annel702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
