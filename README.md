@@ -3,13 +3,15 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
  
  
- 
- ![Green And Yellow Greta Mae Eva Linkedln Bannerr-3](https://user-images.githubusercontent.com/96323677/147718287-2a1b3cc1-0ecb-4bee-806d-1f4dabe2668f.png)
+ ![Brown Abstract Floral LinkedIn Banner](https://user-images.githubusercontent.com/96323677/162531233-ec30ec6d-8356-4d09-b18e-726322c68d76.png)
 
+ 
+ ![technology-g6509e4092_1280-removebg-preview](https://user-images.githubusercontent.com/96323677/161875811-875230d7-ce09-431d-b547-95aa19d53f1a.png)
+
+Working with clients to develop websites from concept to finished product, to enhance their brand and generate leads. Committed to exploring the seemingly endless possibilities of coding.   
 - former MUA  💋, beauty editor, and photographer. 
 - 👀 My interest in tech came as a result of working as a convention staff member for large tech events locally on the Las Vegas strip.
-- 🌱  Currently learning Javascript,HTML, and CSS independently. Psychology major hungry for advancement. Familiarizing myself with version control best practices and web development.
-- 💞️ Eager to network and get as much experience as possible on my journey as a developer.  
+- 🌱  Languages include JavaScript, HTML, and CSS. Follow my fullstack journey! 
   
   
   ![undraw_Lost_online_re_upmy](https://user-images.githubusercontent.com/96323677/146655167-0b59ed6f-fa3e-44be-a12b-2a2a5eb75f79.png)
@@ -20,7 +22,8 @@
   - ✍️ Experiments via Codepen <a href="https://codepen.io/Annel702">Codepen</a> ✍️
 
 
-  -Follow me on <a href="https://www.linkedin.com/in/annel-gonzales-86b458227">LinkedIn</a> 
+  -Follow me on <a href="https://www.linkedin.com/in/annel-gonzales702![image](https://user-images.githubusercontent.com/96323677/161873161-3c5a3c44-d5db-4236-8417-88b09e832036.png)
+">LinkedIn</a> 
 <p>
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 
