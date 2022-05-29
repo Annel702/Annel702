@@ -3,7 +3,8 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
  
  
- ![Brown Abstract Floral LinkedIn Banner](https://user-images.githubusercontent.com/96323677/162531233-ec30ec6d-8356-4d09-b18e-726322c68d76.png)
+![Brown Abstract Floral LinkedIn Banner-5](https://user-images.githubusercontent.com/96323677/170886534-9fa10cf7-326f-4c2e-804d-68a65b33b2a1.png)
+
 
  
  ![technology-g6509e4092_1280-removebg-preview](https://user-images.githubusercontent.com/96323677/161875811-875230d7-ce09-431d-b547-95aa19d53f1a.png)
