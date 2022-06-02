@@ -7,12 +7,14 @@
 
 
  
- ![technology-g6509e4092_1280-removebg-preview](https://user-images.githubusercontent.com/96323677/161875811-875230d7-ce09-431d-b547-95aa19d53f1a.png)
 
-Working with clients to develop websites from concept to finished product, to enhance their brand and generate leads. Committed to exploring the seemingly endless possibilities of coding.   
+
+Currently working with clients to develop websites from concept to finished product, enhancing their brand and generating leads. 
+Committed to exploring the seemingly endless possibilities of coding.   
 - former MUA  💋, beauty editor, and photographer. 
 - 👀 My interest in tech came as a result of working as a convention staff member for large tech events locally on the Las Vegas strip.
-- 🌱  Languages include JavaScript, HTML, and CSS. Follow my fullstack journey! 
+- 🌱  Languages include JavaScript, HTML, CSS, and react. 
+Follow my fullstack journey! 
   
   
   ![undraw_Lost_online_re_upmy](https://user-images.githubusercontent.com/96323677/146655167-0b59ed6f-fa3e-44be-a12b-2a2a5eb75f79.png)
@@ -28,7 +30,7 @@ Working with clients to develop websites from concept to finished product, to en
 <p>
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-
+ ![technology-g6509e4092_1280-removebg-preview](https://user-images.githubusercontent.com/96323677/161875811-875230d7-ce09-431d-b547-95aa19d53f1a.png)
 
 <!---
 Annel702/Annel702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
