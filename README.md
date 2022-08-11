@@ -3,8 +3,8 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
  
  
-![Brown Abstract Floral LinkedIn Banner-5](https://user-images.githubusercontent.com/96323677/170886534-9fa10cf7-326f-4c2e-804d-68a65b33b2a1.png)
 
+![Copy of Copy of Brown Abstract Floral LinkedIn Banner](https://user-images.githubusercontent.com/96323677/184256731-f65f2a2c-5a68-46b7-89f4-881b397bb0b9.png)
 
  
 
@@ -13,15 +13,16 @@ Currently working with clients to develop websites from concept to finished prod
 Committed to exploring the seemingly endless possibilities of coding.   
 - former MUA  💋, beauty editor, and photographer. 
 - 👀 My interest in tech came as a result of working as a convention staff member for large tech events locally on the Las Vegas strip.
-- 🌱  Languages include JavaScript, HTML, CSS, and react. 
-Follow my fullstack journey! 
+- 🌱  JavaScript, HTML, CSS, and react.js, node.js
+
+Follow my tech journey! 
   
   
   ![undraw_Lost_online_re_upmy](https://user-images.githubusercontent.com/96323677/146655167-0b59ed6f-fa3e-44be-a12b-2a2a5eb75f79.png)
 
   
   ## Let's connect 🌎:
-  💌 - photolv@icloud.com
+  💌 - annricki702@gmail.com
   - ✍️ Experiments via Codepen <a href="https://codepen.io/Annel702">Codepen</a> ✍️
 
 
