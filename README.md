@@ -6,19 +6,42 @@
 
 ![Copy of Copy of Brown Abstract Floral LinkedIn Banner](https://user-images.githubusercontent.com/96323677/184256731-f65f2a2c-5a68-46b7-89f4-881b397bb0b9.png)
 
- 
+
+
+## ⚡ Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+<img src="{https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white}"/>
+
+ <br>
 
 
 Currently working with clients to develop websites from concept to finished product, enhancing their brand and generating leads. 
-Committed to exploring the seemingly endless possibilities of coding.   
-- former MUA  💋, beauty editor, and photographer. 
-- 👀 My interest in tech came as a result of working as a convention staff member for large tech events locally on the Las Vegas strip.
-- 🌱  JavaScript, HTML, CSS, and react.js, node.js
 
-Follow my tech journey! 
+-Background: Certified MUA, beauty editor, & photographer. 
+- 👀 My interest in tech came as a result of working as a convention staff member for large tech events locally on the Las Vegas strip.
+
+Committed to exploring the seemingly endless possibilities of code/ low code development, cloud, and AI.   
+
+
   
   
-  ![undraw_Lost_online_re_upmy](https://user-images.githubusercontent.com/96323677/146655167-0b59ed6f-fa3e-44be-a12b-2a2a5eb75f79.png)
+ ![IMG_9483 2](https://user-images.githubusercontent.com/96323677/196800686-83144cc0-5710-43cd-af72-71e2c6f013ce.JPG) 
+![IMG_9484](https://user-images.githubusercontent.com/96323677/196799805-a6ed2cc5-3b86-436a-8bea-3f6199d3af6d.JPG)
+
+
+
+![IMG_9486](https://user-images.githubusercontent.com/96323677/196800323-46840d92-96ca-4b28-81b3-cf695e1ad4b3.JPG)
+![IMG_9487](https://user-images.githubusercontent.com/96323677/196800429-9b82329f-90d2-46ef-9d49-afae5847c7da.JPG)
+
+  <em>Images copyright @Craiyon - a creative AI model which generates art from text!<em>
+  
 
   
   ## Let's connect 🌎:
@@ -26,10 +49,8 @@ Follow my tech journey!
   - ✍️ Experiments via Codepen <a href="https://codepen.io/Annel702">Codepen</a> ✍️
 
 
-  -Follow me on <a href="https://www.linkedin.com/in/annel-gonzales702![image](https://user-images.githubusercontent.com/96323677/161873161-3c5a3c44-d5db-4236-8417-88b09e832036.png)
-">LinkedIn</a> 
-<p>
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  -Follow me via Linkedin [![Linkedin Badge](https://img.shields.io/badge/-Annel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Annel702/)](https://www.linkedin.com/in/Annel702/)
+
 
  ![technology-g6509e4092_1280-removebg-preview](https://user-images.githubusercontent.com/96323677/161875811-875230d7-ce09-431d-b547-95aa19d53f1a.png)
 
