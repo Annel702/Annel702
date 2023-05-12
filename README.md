@@ -22,30 +22,21 @@
  <br>
 
 
-Currently working with clients to develop websites from concept to finished product, enhancing their brand and generating leads. 
+Currently working with clients to provide digital assets from concept to finish, enhancing their brand and generating leads. 
 
--Background: Certified MUA, beauty editor, & photographer. 
+
 - 👀 My interest in tech came as a result of working as a convention staff member for large tech events locally on the Las Vegas strip.
 
-Committed to exploring the seemingly endless possibilities of code/ low code development, cloud, and AI.   
+Currently learning cyber security and exploring the seemingly endless possibilities of code/ low code development, cloud, and AI.   
 
 
   
   
- ![IMG_9483 2](https://user-images.githubusercontent.com/96323677/196800686-83144cc0-5710-43cd-af72-71e2c6f013ce.JPG) 
-![IMG_9484](https://user-images.githubusercontent.com/96323677/196799805-a6ed2cc5-3b86-436a-8bea-3f6199d3af6d.JPG)
-
-
-
-![IMG_9486](https://user-images.githubusercontent.com/96323677/196800323-46840d92-96ca-4b28-81b3-cf695e1ad4b3.JPG)
-![IMG_9487](https://user-images.githubusercontent.com/96323677/196800429-9b82329f-90d2-46ef-9d49-afae5847c7da.JPG)
-
-  <em>Images copyright @Craiyon - a creative AI model which generates art from text!<em>
-  
+ 
 
   
   ## Let's connect 🌎:
-  💌 - annricki702@gmail.com
+  
   - ✍️ Experiments via Codepen <a href="https://codepen.io/Annel702">Codepen</a> ✍️
 
 
