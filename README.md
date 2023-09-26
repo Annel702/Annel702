@@ -1,6 +1,6 @@
 ### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">my name is Annel Gonzales
  Great to see you here
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
  
  
 
@@ -22,12 +22,10 @@
  <br>
 
 
-Currently working with clients to provide digital assets from concept to finish, enhancing their brand and generating leads. 
-
 
 - 👀 My interest in tech came as a result of working as a convention staff member for large tech events locally on the Las Vegas strip.
 
-Currently learning cyber security and exploring the seemingly endless possibilities of code/ low code development, cloud, and AI.   
+Currently learning as much as I can by leveraging free resources and exploring the seemingly endless possibilities of code/ low code development, cloud, as well as AI.   
 
 
   
